@@ -1,4 +1,5 @@
 {
+  "$schema": "https://aka.ms/codetour-schema",
   "title": "Upgrade project native1.11 to v1.14.0",
   "steps": [
     {
@@ -123,7 +124,7 @@
     },
     {
       "title": "REQUIRED: deploy-azure-storage.json workingDir (FN005002)",
-      "description": "### REQUIRED\r\n\r\nUpdate deploy-azure-storage.json workingDir\r\n\r\n\r\n```json\r\n{\n  \"workingDir\": \"./release/assets/\"\n}\r\n```",
+      "description": "### REQUIRED\r\n\r\nUpdate deploy-azure-storage.json workingDir\r\n\r\n\r\n```json\r\n{\r\n  \"workingDir\": \"./release/assets/\"\r\n}\r\n```",
       "line": 3,
       "file": "config/deploy-azure-storage.json"
     },

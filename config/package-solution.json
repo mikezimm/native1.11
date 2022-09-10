@@ -16,5 +16,24 @@
   },
   "paths": {
     "zippedPackage": "solution/native-1-11.sppkg"
-  }
+  },
+  "metadata": {
+    "shortDescription": {
+      "default": "native-1-11 description"
+    },
+    "longDescription": {
+      "default": "native-1-11 description"
+    },
+    "screenshotPaths": [],
+    "videoUrl": "",
+    "categories": []
+  },
+  "features": [
+    {
+      "title": "native-1-11 Feature",
+      "description": "The feature that activates elements of the native-1-11 solution.",
+      "id": "15820e61-f26b-4f18-8572-03074a20fd0e",
+      "version": "1.0.0.0"
+    }
+  ]
 }
