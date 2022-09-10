@@ -3,7 +3,7 @@
   "solution": {
     "name": "native-1-11-client-side-solution",
     "id": "99428e30-347c-49a2-88d5-2873e1c91395",
-    "version": "1.0.0.0",
+    "version": "1.0.0.2",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {
@@ -33,7 +33,7 @@
       "title": "native-1-11 Feature",
       "description": "The feature that activates elements of the native-1-11 solution.",
       "id": "15820e61-f26b-4f18-8572-03074a20fd0e",
-      "version": "1.0.0.0"
+      "version": "1.0.0.2"
     }
   ]
 }
