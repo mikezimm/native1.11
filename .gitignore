@@ -9,6 +9,7 @@ node_modules
 # Build generated files
 dist
 lib
+release
 solution
 temp
 *.sppkg
@@ -16,7 +17,6 @@ temp
 # Coverage directory used by tools like istanbul
 coverage
 
-release
 
 # OSX
 .DS_Store

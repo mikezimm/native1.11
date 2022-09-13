@@ -37,6 +37,11 @@
     @include ms-fontColor-white;
   }
 
+  .description2 {
+    @include ms-font-l;
+    color: red;
+  }
+
   .button {
     // Our button
     text-decoration: none;
